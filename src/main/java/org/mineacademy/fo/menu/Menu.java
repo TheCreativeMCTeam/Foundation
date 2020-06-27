@@ -130,7 +130,7 @@ public abstract class Menu {
 	/**
 	 * The inventory title of the menu, colors & are supported
 	 */
-	private String title = "&0Menu";
+	private String title = "&8Title";
 	/**
 	 * The description of the menu
 	 */
